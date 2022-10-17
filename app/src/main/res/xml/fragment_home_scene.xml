@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotionScene 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:motion="http://schemas.android.com/apk/res-auto">
+
+    <Transition
+        motion:constraintSetEnd="@+id/end"
+        motion:constraintSetStart="@id/start"
+        motion:duration="1000">
+       <KeyFrameSet>
+       </KeyFrameSet>
+        <OnSwipe motion:touchAnchorId="@+id/recyclerview_next_days" />
+    </Transition>
+
+    <ConstraintSet android:id="@+id/start">
+        <Constraint
+            android:id="@+id/layout_current_weather"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleX="1"
+            android:scaleY="1"
+            android:alpha="1"
+
+            motion:layout_constraintTop_toTopOf="parent"
+            />
+
+        <Constraint
+            android:id="@+id/recyclerview_next_days"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            motion:layout_constraintTop_toBottomOf="@+id/layout_current_weather"
+            android:alpha="1" />
+    </ConstraintSet>
+
+    <ConstraintSet android:id="@+id/end">
+        <Constraint
+            android:id="@+id/layout_current_weather"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleX="0.5"
+            android:scaleY="0.5"
+            android:alpha="0"
+            motion:layout_constraintTop_toTopOf="parent"/>
+
+        <Constraint
+            android:id="@+id/recyclerview_next_days"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            motion:layout_constraintTop_toTopOf="parent"
+            motion:layout_constraintBottom_toBottomOf="parent"
+            android:alpha="1" />
+    </ConstraintSet>
+</MotionScene>
