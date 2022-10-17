@@ -100,7 +100,7 @@
                 />
 
             <TextView
-                android:id="@+id/text_day_value"
+                android:id="@+id/text_morning_value"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="16dp"
