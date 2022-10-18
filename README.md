@@ -37,9 +37,10 @@ Technologies and libraries used in this project:
   <li>MotionLayout</li>
 </ul>
 
+<span id="try"></span>
 ## Try WeatherApp
-<div id="try">
-Clone the repo
+You can clone the repo
+
 ```sh
   git clone https://github.com/erdemklync/WeatherApp.git
 ```
@@ -47,7 +48,7 @@ Clone the repo
 or
 
 download the APK file <a href="https://github.com/erdemklync/WeatherApp/releases/tag/1.0">here</a>.
-</div>
+
 
 ## Contact
 
