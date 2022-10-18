@@ -46,7 +46,7 @@ Clone the repo
 
 or
 
-download the APK file here.
+download the APK file <a href="https://github.com/erdemklync/WeatherApp/releases/tag/1.0">here</a>.
 </div>
 
 ## Contact
