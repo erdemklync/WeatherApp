@@ -49,11 +49,10 @@ or
 
 download the APK file <a href="https://github.com/erdemklync/WeatherApp/releases/tag/1.0">here</a>.
 
-
 ## Contact
 
-LinkedIn - [https://linked.in/p/erdemkalyoncu](https://linked.in/p/erdemkalyoncu)<br />
-Medium - [https://medium.com/@erdemklync](https://medium.com/@erdemklync)<br />
-YouTube - [https://www.youtube.com/c/ErdemKalyoncu](https://www.youtube.com/c/ErdemKalyoncu)<br />
+LinkedIn - [linkedin.com/in/erdemkalyoncu](https://linkedin.com/in/erdemkalyoncu)<br />
+Medium - [medium.com/@erdemklync](https://medium.com/@erdemklync)<br />
+YouTube - [youtube.com/c/ErdemKalyoncu](https://www.youtube.com/c/ErdemKalyoncu)<br />
 
 See my other projects: [https://github.com/erdemklync](https://github.com/erdemklync)
