@@ -4,7 +4,7 @@
     </a>
     <h3 align="center">WeatherApp</h3>
     <p align="center">
-        WeatherApp is a weather forecast application developed for <a href="patika.dev">Patika</a>'s Pazarama Android Bootcamp.
+        WeatherApp is a weather forecast application developed at <a href="patika.dev">Patika</a>'s Pazarama Android Bootcamp.
         <br />
         <br />
         <a href="https://github.com/othneildrew/Best-README-Template">Try WeatherApp</a>
