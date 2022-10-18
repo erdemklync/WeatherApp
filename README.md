@@ -7,7 +7,7 @@
         WeatherApp is a weather forecast application developed at <a href="patika.dev">Patika</a>'s Pazarama Android Bootcamp.
         <br />
         <br />
-        <a href="https://github.com/othneildrew/Best-README-Template">Try WeatherApp</a>
+        <a href="#try">Try WeatherApp</a>
         ·
         <a href="https://github.com/erdemklync/WeatherApp/issues">Report Bug</a>
         ·
@@ -38,7 +38,7 @@ Technologies and libraries used in this project:
 </ul>
 
 ## Try WeatherApp
-
+<div id="try">
 Clone the repo
 ```sh
   git clone https://github.com/erdemklync/WeatherApp.git
@@ -47,6 +47,7 @@ Clone the repo
 or
 
 download the APK file here.
+</div>
 
 ## Contact
 
